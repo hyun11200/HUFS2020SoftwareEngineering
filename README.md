@@ -1,5 +1,5 @@
 # HUFS2020SoftwareEngineering
-
+https://user-images.githubusercontent.com/49778514/95831348-dfad2a80-0d73-11eb-8c3d-d5bf216bc862.png
 ### Why is this project created?
 This is the class project of Team 5, Software Engineering Class, Information and Communication Engineering, Hankuk University of Foreign Studies.
 
